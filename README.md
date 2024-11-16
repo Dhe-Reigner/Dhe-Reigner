@@ -1,2 +1,2 @@
-# Employee-Management-System
-Django backend project
+# Hae, I'm MARRTIN NG'ANG'A KAGEMA
+BACKEND WEB DEVELOPER
