@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martin Kagema</h1>
-<h3 align="center">A passionate AI/ML developer from Kenya</h3>
+<h3 align="center">A passionate AI/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhe-reigner&label=Profile%20views&color=0e75b6&style=flat" alt="dhe-reigner" /> </p
 
-- 🌱 I’m currently learning **Machine Learning Models**
+- 🌱 I’m currently learning **Multi Agent Orcherstration**
 
-- 💬 Ask me about **Bootstrap,Python,Django**
+- 💬 Ask me about **Langchain,Crewai,ML**
 
 - 📫 How to reach me **martinkagema01@gmail.com**
 
