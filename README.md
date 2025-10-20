@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Multi Agent Orcherstration**
 
-- 💬 Ask me about **Langchain,Crewai,ML**
+- 💬 Ask me about **Langchain,Crewai,ML,Data Analysis,AI Engineering**
 
 - 📫 How to reach me **martinkagema01@gmail.com**
 
